@@ -1,4 +1,5 @@
 # Hazel Configuration Issue
+This is a companion to issue [vercel/hazel#132](https://github.com/vercel/hazel/issues/132).
 
 ## Setup
 You will need the [Vercel CLI](https://vercel.com/cli) installed to run this example.
